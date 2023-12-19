@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "email": "howhow@example.com",
+      "email": "howhow@gmail.com",
       "password": "$2a$10$IxxGUQCLKtPzbz5iqYC6CuGcyvyGmSaufxqZptRcwVZf3w8z5uOBy",
       "phone": "0987654321",
       "name": "阿豪",
@@ -16,7 +16,7 @@
     },
     {
       "id": 2,
-      "email": "snowwhite@example.com",
+      "email": "snowwhite@gmail.com",
       "password": "$2a$10$ioL5H8c10InhbvTc.CTqbuMetOoAJs4DbSGROcWwHbniJ8frh2wi6",
       "phone": "0987654321",
       "name": "小雪",
@@ -30,7 +30,7 @@
     },
     {
       "id": 3,
-      "email": "andrew.chen@example.com",
+      "email": "andrew.chen@gmail.com",
       "password": "$2a$10$54mqOsTxLrh5atmS5t5XWer42E7gV6jfhqVdHWo/r5TjQtyZdFdT6",
       "phone": "0955123456",
       "name": "陳辰",
@@ -44,7 +44,7 @@
     },
     {
       "id": 4,
-      "email": "lisa@example.com",
+      "email": "lisa@gmail.com",
       "password": "$2a$10$MzyKt0blMTw1OEw03eDv6uvdyMF90T54fKsDM0JOi3butlI1ZT1wy",
       "phone": "0929333111",
       "name": "許佳慧",
@@ -58,7 +58,7 @@
     },
     {
       "id": 5,
-      "email": "david.wu@example.com",
+      "email": "david.wu@gmail.com",
       "password": "$2a$10$tI0Z5QNjdH3COlG4p9cFce/5cl9GAIJ0U2KNLucFgsw/U1rseu//e",
       "phone": "0912444333",
       "name": "David",
